@@ -5,7 +5,7 @@
 4. Start the project:  `yarn start`
 
 
-5. To create an User to login in the Calculator App
+5. To create an User to login in the Calculator App or verify user created by prisma seed 
 Endpoint:
 http://localhost:3001/users
 Method:
