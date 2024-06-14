@@ -22,3 +22,5 @@ Body:
     "hash": "mypassisweak",
     "name": "First User"
 }
+
+6. Default login admin@calculator.com
